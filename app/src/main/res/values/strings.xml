@@ -1,0 +1,325 @@
+<resources>
+
+    <string name="app_name">CAR</string>
+
+    <string name="label_copyright_splash">Copyright by PAR DIGITAL</string>
+
+    <string name="label_parversi">CAR v.1.0.0 </string>
+
+    <string name="label_login">Masuk</string>
+
+    <string name="label_lupa_kata_sandi">Lupa Kata Sandi</string>
+
+    <string name="label_login_header_content">Silahkan Login Menggunakan Email</string>
+
+    <string name="label_email_hint">Email</string>
+
+    <string name="label_password_hint">Kata Sandi</string>
+
+    <string name="label_tv_lupa_kata_sandi">Lupa Kata Sandi?</string>
+
+    <string name="label_assets_home">Assets</string>
+
+    <string name="label_menu_title_menu_asset_masuk">Assets Masuk</string>
+
+    <string name="label_menu_title_menu_stock_masuk">Stock Masuk</string>
+
+    <string name="label_menu_desc_1_menu_asset_masuk">Assets Masuk</string>
+    <string name="label_menu_desc_2_menu_asset_masuk">Ter-Scan Hari Ini?</string>
+
+    <string name="label_menu_title_menu_asset_keluar">Assets Keluar</string>
+    <string name="label_menu_title_menu_stock_keluar">Hari Ini</string>
+
+    <string name="label_menu_desc_1_menu_asset_keluar">Assets Keluar</string>
+    <string name="label_menu_desc_2_menu_asset_keluar">Ter-Scan Hari Ini??</string>
+
+
+    <string name="label_menu_title_menu_stock_opname">Stock Opname</string>
+    <string name="label_menu_desc_1_menu_stock_opname">Berapa Banyak Asset Yang</string>
+    <string name="label_menu_desc_2_menu_stock_opname">Ter-Stock Bulan Ini ?</string>
+
+
+    <string name="label_menu_title_menu_barang_assets">Item Assets</string>
+    <string name="label_menu_title_menu_barang_stock">Item Stock</string>
+
+    <string name="label_menu_desc_1_menu_barang_assets">Assets Yang</string>
+    <string name="label_menu_desc_2_menu_barang_assets">Kita Punya ?</string>
+
+    <string name="label_profil_title_page">Profile</string>
+
+    <string name="label_title_page_list_gudang">Lokasi</string>
+
+    <string name="label_title_page_list_barang">Items</string>
+
+    <string name="label_title_page_list_barang_stock">List Items</string>
+
+    <string name="label_phone_number_profile">Nomor Telpon</string>
+
+    <string name="label_address_profile">Alamat</string>
+
+    <string name="label_pengaturan_profile_detail">Pengaturan Profile</string>
+
+    <string name="label_ganti_password_profile">Ganti Kata Sandi</string>
+
+    <string name="label_tv_logout">Keluar</string>
+
+    <string name="label_version_lippo_gudang_profile">CAR v1.0.0</string>
+
+    <string name="label_header_list_gudang">Silahkan Pilih Lokasi</string>
+
+    <string name="label_hint_search_list_barang">Masukan Nama Product</string>
+
+    <string name="label_menu_title_menu_item_barang_assets">Item Assets</string>
+
+    <string name="label_menu_title_menu_item_barang_stock">Item Stock</string>
+
+    <string name="label_quantity">Quantity</string>
+
+    <string name="label_pno">Nama Pengemudi</string>
+
+    <string name="label_last_update">Update Terakhir</string>
+
+    <string name="label_waktu_scan">Waktu Scan</string>
+
+    <string name="label_detail_barang">Detail Item</string>
+
+    <string name="label_detail_barang_stock">Detail Item Stock</string>
+
+    <string name="label_detail_per_gudang">Detail per-lokasi</string>
+
+    <string name="label_detail_per_scan">Detail per-scan</string>
+
+    <string name="label_title_page_riwayat_list_stock_opname">Stock Opname History</string>
+
+    <string name="label_hint_input_nama">Masukan Nama</string>
+
+    <string name="label_add_stock_opname">Add stock opname</string>
+
+    <string name="label_tanggal_waktu">Tanggal/Waktu</string>
+
+    <string name="label_status_draft">DRAFT</string>
+    <string name="label_status_publish">PUBLISH</string>
+
+    <string name="label_title_list_scanned_product">List Scanned Product</string>
+
+    <string name="label_scan_product">Scan Item</string>
+
+    <string name="label_detail_scanned_product">Detail Scanned Product</string>
+
+    <string name="label_gudang">Lokasi</string>
+
+    <string name="label_code">Code</string>
+
+    <string name="label_loading_title_dialog">Silahkan Tunggu..</string>
+
+    <string name="label_scan_stock_opname">Scan Stock Opname</string>
+
+    <string name="label_scan_assets_keluar">Scan Assets Keluar</string>
+
+    <string name="label_scan_assets_masuk">Scan Assets Masuk</string>
+
+    <string name="label_scan_stock_masuk">Scan Stock Masuk</string>
+
+    <string name="label_scan_stock_keluar">Scan Stock KEluar</string>
+
+    <string name="label_header_scan_1">Silahkan Scan Barcode </string>
+    <string name="label_header_scan_2">Untuk Mengambil Data</string>
+
+    <string name="label_bottom_scan_1">Make sure you take space</string>
+    <string name="label_bottom_scan_2">enough when scanning</string>
+    <string name="label_bottom_scan_3">Bar Code</string>
+
+
+    <string name="label_permission_diperlukan">Izin Ditolak</string>
+
+    <string name="label_rational_message">Membutuhkan Izin Untuk Mengakses Kamera</string>
+
+    <string name="label_rational_message_camera_photo">Membutuhkan Izin Untuk Mengakses Kamera</string>
+
+    <string name="label_denied_message">Jika Tidak Diberikan Izin, Kamu Tidak Dapat Mengakses Aplikasi Ini. Silahkan Berikan Izin Di [Setting] > [Permission]</string>
+
+    <string name="label_tambah_stock_opname">Tambah Stock Opname</string>
+
+    <string name="label_input_nama_stock_opname">Masukan Nama Stock Opname</string>
+
+    <string name="label_input_quantity">Masukan Quantity</string>
+
+    <string name="label_input_pno">Masukan Nama Pengemudi</string>
+
+    <string name="label_input_quantity_barang_stock">Input Quantity Item Stock</string>
+
+    <string name="label_tambah">Tambah</string>
+
+    <string name="label_update">Update</string>
+
+    <string name="label_form_wajib_diisi">Form is required</string>
+
+    <string name="label_update_quantity">Update Quantity</string>
+
+    <string name="label_cancel">Cancel</string>
+
+    <string name="label_header_content_dialog_delete_stockopname1">Apa Kamu Yakin</string>
+    <string name="label_header_content_dialog_delete_stockopname2">Menghapus Item?</string>
+
+    <string name="label_header_content_dialog_logout1">Apa Kamu Yakin</string>
+    <string name="label_header_content_dialog_logout2">Keluar?</string>
+
+
+    <string name="label_header_content_dialog_change_password1">Update Password</string>
+    <string name="label_header_content_dialog_change_password2">Berhasil</string>
+
+    <string name="label_header_content_dialog_update_photo1">Update Photo</string>
+    <string name="label_header_content_dialog_update_photo2">Berhasil</string>
+
+    <string name="label_ya">Ya</string>
+    <string name="label_tidak">Tidak</string>
+
+    <string name="label_title_data_publish_berhasil">Sukses Mengirim Data</string>
+
+    <string name="label_title_forgot_berhasil">Email Dikirim</string>
+
+    <string name="label_content_dialog_forgot_berhasil">Silahkan Check Email Untuk Mendapatkan Password Baru</string>
+
+    <string name="label_oke">Ok</string>
+
+    <string name="label_input_kode_barang">Masukan Item Code</string>
+
+    <string name="label_check">Check</string>
+
+    <string name="label_data_terkirim">Data Terkirim</string>
+
+    <string name="label_list_produk">Daftar Item</string>
+    <string name="label_lanjutkan_scan">Scan Berikutnya</string>
+
+    <string name="label_list_assets">Assets</string>
+
+    <string name="label_list_barang">Items</string>
+
+    <string name="label_input_nama_barang">Masukan Nama Barang</string>
+
+    <string name="label_list_assets_keluar">Assets Keluar</string>
+
+    <string name="label_list_stock_masuk">Stock Masuk</string>
+
+    <string name="label_list_stock_keluar">Stock Keluar</string>
+
+    <string name="label_list_assets_masuk">Assets Masuk</string>
+
+    <string name="label_detail_assets">Detail Assets</string>
+
+    <string name="label_detail_assets_keluar">Detail Assets Keluar</string>
+
+    <string name="label_detail_stock_barang_masuk">Detail Barang Masuk</string>
+
+    <string name="label_detail_stock_barang_keluar">Detail Barang Keluar</string>
+
+    <string name="label_detail_assets_masuk">Detail Barang In</string>
+
+    <string name="label_informasi_detail_barang">Information of item</string>
+
+    <string name="label_keterangan">Keterangan</string>
+
+    <string name="label_tanggal">Date</string>
+
+    <string name="label_waktu">Time</string>
+
+    <string name="label_hint_input_keterangan">Masukan Keterangan Disini</string>
+
+    <string name="label_submit">Kirim</string>
+
+    <string name="label_title_form_assets_keluar">Form Assets Keluar</string>
+
+    <string name="label_title_form_assets_masuk">Form Assets Masuk</string>
+
+    <string name="label_title_form_stock_masuk">Form Stock In</string>
+
+    <string name="label_title_form_stock_keluar">Form Stock Out</string>
+
+    <string name="label_silakan_lengkapi_form">Silahkan Lengapi Form Terlebih Dahulu!</string>
+
+    <string name="label_assets">Assets</string>
+
+    <string name="label_stock">Stock</string>
+
+    <string name="label_tipe_quantity">Quantity Type</string>
+
+    <string name="label_input_stock_quantity">Input Stock Quantity</string>
+
+
+    <string name="label_something_wrong">Masalah Dengan Server</string>
+
+    <string name="label_koneksi_error">Jaringan Bermasalah, Silahkan Cek Koneksi Kamu</string>
+
+    <string name="label_header_forgot_pass_sub1">Silahkan Masukan Email</string>
+    <string name="label_header_forgot_pass_sub2">Untuk Mendapatkan Password Baru</string>
+
+    <string name="label_kirim_email">Kirim Email</string>
+
+    <string name="label_back_page_login">Kembali Ke Halaman Login</string>
+
+    <string name="label_kode">Code</string>
+
+
+    <string name="label_kembali">Keluar</string>
+    <string name="label_kembali_dialog">Kembali</string>
+    <string name="label_kembali_dialog_failure">Kembali</string>
+    <string name="label_ulangi_dialog_failure">Ulangi</string>
+    <string name="label_ulangi">Ulangi</string>
+    <string name="label_notif">Peringatan</string>
+
+    <string name="label_failure_content1">Jaringan Eror</string>
+    <string name="label_failure_content2">Silahkan Cek Koneksi</string>
+
+
+    <string name="label_failure_content_server_title">Maaf,</string>
+    <string name="label_failure_content_server_content">Gangguan Server</string>
+
+    <string name="label_hint_password_saat_ini">Password Saat Ini</string>
+
+    <string name="label_hint_password_baru">Kata Sandi Baru</string>
+
+    <string name="label_hint_retype_password">Ulangi Kata Sandi</string>
+
+    <string name="label_simpan">Simpan</string>
+
+    <string name="label_retype_wrong">Kata Sandi Tidak Cocok</string>
+
+    <string name="label_lama_masih_sama">Kata Sandi Lama Salah</string>
+
+    <string name="label_password_tidak_boleh_sama">Kata Sandi Sama Dengan Kata Sandi Sebelumnya</string>
+
+
+    <string name="label_gallery">Gallery</string>
+    <string name="label_camera">Kamera</string>
+
+    <string name="label_header_pilih_opsi_photo">Pilih Photo Dengan Opsional</string>
+
+    <string name="label_update_profile">Update Profile</string>
+
+    <string name="label_please_wait_spinner_gudang">Sedang Mengambil Data</string>
+
+    <string name="labe_hint_pilih_gudang">Pilih Lokasi</string>
+
+    <string name="label_pilih_gudang_terlebih_dahulu">Silahkan Pilih Lokasi</string>
+
+    <string name="label_semua_status">Semua Status</string>
+    <string name="label_draft_status">Draft Status</string>
+    <string name="label_pending_status">Pending Status</string>
+    <string name="label_publish_status">Publish Status</string>
+
+    <string name="label_scanned">Scanned</string>
+
+    <string name="label_selected_wirehouse_first">pilih Lokasi Terlebih Dahulu</string>
+    <string name="label_selected_quantity_type_first">Select quantity type first</string>
+
+    <string name="label_pcs">PCS</string>
+
+    <string name="label_stockopname_asset_added_scan_1">Sukses Tambah Data </string>
+    <string name="label_stockopname_asset_added_scan_2">Ke Dalam Sistem</string>
+
+    <string name="label_isikan_tipe_quantity_dahulu">Fill in the Quantity Type first</string>
+
+    <string name="label_empty_data_title">Data Kosong</string>
+    <string name="label_empty_data_content">Tidak Ada Data Untuk DItampilkan</string>
+
+</resources>

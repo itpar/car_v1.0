@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Car_Assets_Registery.iml" filepath="$PROJECT_DIR$/.idea/modules/Car_Assets_Registery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Car_Assets_Registery.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Car_Assets_Registery.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/textfieldboxes/Car_Assets_Registery.textfieldboxes.iml" filepath="$PROJECT_DIR$/.idea/modules/textfieldboxes/Car_Assets_Registery.textfieldboxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxing-android-embedded/Car_Assets_Registery.zxing-android-embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/zxing-android-embedded/Car_Assets_Registery.zxing-android-embedded.iml" />
+    </modules>
+  </component>
+</project>
